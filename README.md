@@ -212,6 +212,6 @@ Even in the worst case profit rises, because cutting the Influencer loss saves m
 <div align="center">
 
 **Built by [Your Name]** · Data Analyst
-[LinkedIn]([www.linkedin.com/in/julde-toheed](https://www.linkedin.com/in/julde-toheed)) · [Email](mailto:juldetoheed@gmail.com) · [Portfolio](ADD-YOUR-PORTFOLIO-LINK-HERE)
+[LinkedIn](https://www.linkedin.com/in/julde-toheed) · [Email](mailto:juldetoheed@gmail.com) · [Portfolio](ADD-YOUR-PORTFOLIO-LINK-HERE)
 
 </div>
