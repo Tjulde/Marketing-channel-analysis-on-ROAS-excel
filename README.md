@@ -157,7 +157,7 @@ flowchart LR
 
 ### Charts
 
-![Cost to win one customer](images/chart-1-cost-per-customer.png)
+![Cost to win one customer](images/chart-1-cost-per-custome.png)
 ![Money back for every ₦1 spent](images/chart-2-return-on-ad-spend.png)
 ![Cost vs what customers spend](images/chart-3-cost-vs-spend.png)
 ![Revenue by channel and month](images/pivot-revenue-by-month.png)
